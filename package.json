@@ -1,0 +1,23 @@
+{
+  "name": "maze_app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Maze Shortest Path Finder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Maze"
+  ],
+  "author": "Vaibhav Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "mathjs": "^10.4.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
