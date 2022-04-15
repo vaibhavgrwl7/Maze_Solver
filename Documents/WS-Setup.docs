@@ -1,6 +1,7 @@
 How to Set up a Maze solving application in your machine? Please follow the below steps.
 
 1> Save the application code in your local machine folder. Please download the code from the below GitHub URL.
+(https://github.com/vaibhavgrwl7/Maze_Solver.git)
 2> Open Visual Studio Code, Go ti 'Files' and select 'Open Folder'.
 3> Kindly Navigate to the Application folder and select it.
 4> From the console, please run 'npm install' command if you are installing the application first time. Prior to this, please check if your system has Node installed (Run 'node --version' command in Command Prompt).
